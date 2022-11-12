@@ -11,13 +11,13 @@ Please read the [step-by-step implementation tutorial](https://gist.github.com/s
 Clone the project,
 
 ```sh
-$ git clone https://github.com/satwikkansal/python_blockchain_app.git
+$ git clone https://github.com/Amit-kota/Blockchain_Implementation.git
 ```
 
 Install the dependencies,
 
 ```sh
-$ cd python_blockchain_app
+$ cd Blockchain_Implementation
 $ pip install -r requirements.txt
 ```
 
@@ -44,15 +44,15 @@ Here are a few screenshots
 
 1. Posting some content
 
-![image.png](https://github.com/satwikkansal/python_blockchain_app/raw/master/screenshots/1.png)
+![image.png](https://github.com/Amit-kota/Blockchain_Implementation/raw/master/screenshots/1.png)
 
 2. Requesting the node to mine
 
-![image.png](https://github.com/satwikkansal/python_blockchain_app/raw/master/screenshots/2.png)
+![image.png](https://github.com/Amit-kota/Blockchain_Implementation/raw/master/screenshots/2.png)
 
 3. Resyncing with the chain for updated data
 
-![image.png](https://github.com/satwikkansal/python_blockchain_app/raw/master/screenshots/3.png)
+![image.png](https://github.com/Amit-kota/Blockchain_Implementation/raw/master/screenshots/3.png)
 
 To play around by spinning off multiple custom nodes, use the `register_with/` endpoint to register a new node. 
 
