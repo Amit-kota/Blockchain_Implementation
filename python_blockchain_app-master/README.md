@@ -1,4 +1,4 @@
-# python_blockchain_app
+# Blockchain_Implementation
 
 A simple tutorial for developing a blockchain application from scratch in Python.
 
@@ -44,7 +44,7 @@ Here are a few screenshots
 
 1. Posting some content
 
-![image.png](https://github.com/Amit-kota/Blockchain_Implementation/raw/master/screenshots/1.png)
+![image.png](https://github.com/Amit-kota/Blockchain_Implementation/blob/main/python_blockchain_app-master/screenshots/1.png)
 
 2. Requesting the node to mine
 
