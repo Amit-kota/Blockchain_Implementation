@@ -48,11 +48,11 @@ Here are a few screenshots
 
 2. Requesting the node to mine
 
-![image.png](https://github.com/Amit-kota/Blockchain_Implementation/raw/master/screenshots/2.png)
+![image.png](https://github.com/Amit-kota/Blockchain_Implementation/blob/main/python_blockchain_app-master/screenshots/2.png)
 
 3. Resyncing with the chain for updated data
 
-![image.png](https://github.com/Amit-kota/Blockchain_Implementation/raw/master/screenshots/3.png)
+![image.png](https://github.com/Amit-kota/Blockchain_Implementation/blob/main/python_blockchain_app-master/screenshots/3.png)
 
 To play around by spinning off multiple custom nodes, use the `register_with/` endpoint to register a new node. 
 
